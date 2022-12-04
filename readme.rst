@@ -1,3 +1,3 @@
 ###################
-Sistem Informasi Penggajian Selkom Group
+HARS - Hammilton Anxiety Rating Scale
 ###################
